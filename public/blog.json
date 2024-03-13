@@ -1,0 +1,53 @@
+[
+    {
+      "ID": "123456",
+      "Cover": "https://example.com/cover1.jpg",
+      "Title": "The Enigmatic Sphere",
+      "Author": "Lila Stone",
+      "Author_img": "https://example.com/author1.jpg",
+      "Posted_date": "March 14, 2024",
+      "Reading_time":  12,
+      "Hashtags": ["#mystery", "#adventure", "#fiction"]
+    },
+    {
+      "ID": "789012",
+      "Cover": "https://example.com/cover2.jpg",
+      "Title": "Echoes of Eternity",
+      "Author": "Felix Winter",
+      "Author_img": "https://example.com/author2.jpg",
+      "Posted_date": "March 13, 2024",
+      "Reading_time":  18,
+      "Hashtags": ["#fantasy", "#magic", "#suspense"]
+    },
+    {
+      "ID": "345678",
+      "Cover": "https://example.com/cover3.jpg",
+      "Title": "Astral Odyssey",
+      "Author": "Nova Rivers",
+      "Author_img": "https://example.com/author3.jpg",
+      "Posted_date": "March 12, 2024",
+      "Reading_time":  15,
+      "Hashtags": ["#sciencefiction", "#space", "#exploration"]
+    },
+    {
+      "ID": "901234",
+      "Cover": "https://example.com/cover4.jpg",
+      "Title": "Whispers in the Shadows",
+      "Author": "Damien Nightingale",
+      "Author_img": "https://example.com/author4.jpg",
+      "Posted_date": "March 11, 2024",
+      "Reading_time":  9,
+      "Hashtags": ["#horror", "#suspense", "#darkfiction"]
+    },
+    {
+      "ID": "567890",
+      "Cover": "https://example.com/cover5.jpg",
+      "Title": "Beyond the Veil",
+      "Author": "Seraphina Day",
+      "Author_img": "https://example.com/author5.jpg",
+      "Posted_date": "March 10, 2024",
+      "Reading_time":  23,
+      "Hashtags": ["#paranormal", "#mystery", "#romance"]
+    }
+  ]
+  
